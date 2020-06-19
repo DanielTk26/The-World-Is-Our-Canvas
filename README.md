@@ -1,2 +1,3 @@
-# The-World-Is-Our-Canvas
-Its a Drawing App...in which you can draw your drawings can be seen by anyone in the world !!!!
+# p5.play-boilerplate
+Boiler plate for p5.play
+https://bhoomisingh.github.io/TheWorldIsOurCanvas/
